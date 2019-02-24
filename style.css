@@ -1,0 +1,107 @@
+.nav-bar {
+    background-color: #3173DC;
+    position: fixed;
+    width: 100%;
+    z-index: 1;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+.master-header {
+    background-color: #3173DC;
+    height: 100vh;
+    color: white
+}
+
+.span-header {
+    font-family: 'Open Sans', sans-serif;
+    margin-left: 100px
+}
+
+.span-header-light {
+    -webkit-font-smoothing: antialiased;
+}
+
+#about {
+    padding-top: 80px;
+    font-family: 'Roboto', sans-serif;
+}
+
+.master-about {
+    margin-bottom: 80px;
+}
+
+.master-about h1 {
+    color: #000
+}
+
+.master-about span {
+    color: #4A4A4A;
+    -webkit-font-smoothing: antialiased;
+}
+
+.master-about p {
+    color: #4A4A4A;
+    -webkit-font-smoothing: antialiased;
+}
+
+.avatar {
+    width: 200px;
+    height: 200px;
+    background-position: center center;
+    background-repeat: no-repeat;
+    object-fit: cover;
+    margin: auto;
+}
+
+#services {
+    font-family: 'Roboto', sans-serif;
+    background-color: #eee
+}
+
+.master-services {
+    padding-top: 80px;
+    padding-bottom: 80px;
+}
+
+.master-services h1 {
+    color: #000
+}
+
+.master-services span {
+    color: #4A4A4A;
+    -webkit-font-smoothing: antialiased;
+}
+
+.master-services p {
+    color: #4A4A4A;
+    -webkit-font-smoothing: antialiased;
+}
+
+#project {
+    font-family: 'Roboto', sans-serif;
+    background-color: #3173DC;
+}
+
+.master-project {
+    padding-top: 80px;
+    padding-bottom: 80px;
+}
+
+.master-project h1 {
+    color: white
+}
+
+.project-items {
+    color: black
+}
+
+#footer {
+    background-color: #3E3E3E;
+    color: white;
+    -webkit-font-smoothing: antialiased;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+html {
+    scroll-behavior: smooth;
+}
